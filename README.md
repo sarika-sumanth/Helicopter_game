@@ -1,1 +1,1 @@
-# Helicopter_game
+Made a 2D game in C++ like "Flappy Bird" but with a helicopter. You control the helicopter by pressing and releasing a key: pressing makes it go up, and releasing makes it go down. The goal is to pass levels without hitting obstacles.
